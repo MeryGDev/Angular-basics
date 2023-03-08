@@ -23,6 +23,7 @@ export class HeroeComponent {
     }
 
     cambiarEdad(): void {
+        console.log('hey...');
         this.edad = 37;
     }
 }
